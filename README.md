@@ -18,7 +18,6 @@
 ## ⚙️ Setup Instructions
 
 You can set up the project easily by running the platform-specific setup script.  
-> 📝 No `requirements.txt` needed!
 
 ### On Linux / macOS:
 ```bash
