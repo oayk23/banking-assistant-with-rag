@@ -1,5 +1,8 @@
 #!/bin/bash
 
+echo "[0/6] Installing Python dependencies..."
+pip install -r requirements.txt
+
 echo "[1/6] Creating folders..."
 mkdir -p data
 mkdir -p artifacts

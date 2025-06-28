@@ -1,4 +1,8 @@
 @echo off
+
+echo [0/6] Installing requirements...
+pip install -r requirements.txt
+
 echo [1/6] Creating folders...
 mkdir data
 mkdir artifacts

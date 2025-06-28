@@ -1,0 +1,7 @@
+faiss-cpu
+pandas
+scikit-learn
+transformers
+uvicorn
+fastapi
+joblib
